@@ -478,6 +478,7 @@
       });
     });
 
+
     describe('shuffle', function () {
 
       it('should not modify the original object', function () {
